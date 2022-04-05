@@ -19,6 +19,9 @@ public class App {
 		// Impresión "Hola mundo"
 		System.out.println("Hola Mundo");
 
+		// Impresión saludo programador
+		System.out.println("Hola Manoli");
+
 	}
 
 }
