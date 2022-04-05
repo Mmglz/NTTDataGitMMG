@@ -16,12 +16,14 @@ public class App {
 
 	public static void main(String[] args) {
 
-		// Impresión "Hola mundo"
+		// Impresión saludo mundo
 		System.out.println("Hola Mundo");
 
 		// Impresión saludo programador
 		System.out.println("Hola Manoli");
 
+		// Impresión saludo Sevilla
+		System.out.println("Hola Sevilla");
 	}
 
 }
